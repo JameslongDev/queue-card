@@ -1,0 +1,10 @@
+<div>
+  <div class="head">
+    <h3>IT05-2</h3>
+  </div>
+  <div class="body">
+    <h1>หมายเลขคิวล่าสุด: {{ queue }}</h1>
+    <h2>เวลา: {{ queueTime | date : "HH:mm:ss" }}</h2>
+    <button (click)="goBack()">กลับหน้ารับบัตรคิว</button>
+  </div>
+</div>

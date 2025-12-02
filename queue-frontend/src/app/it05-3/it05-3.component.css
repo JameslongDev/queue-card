@@ -1,0 +1,21 @@
+.head {
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.body button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}

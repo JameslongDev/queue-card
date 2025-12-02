@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|d:\\projecttest\\queue_test\\queuebackend\\queuebackend\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|solutionrelative:queuebackend\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|d:\\projecttest\\queue_test\\queuebackend\\queuebackend\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|solutionrelative:queuebackend\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|d:\\projecttest\\queue_test\\queuebackend\\queuebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|solutionrelative:queuebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|d:\\projecttest\\queue_test\\queuebackend\\queuebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|solutionrelative:queuebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|d:\\projecttest\\queue_test\\queuebackend\\queuebackend\\queuebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83945630-6325-4A4D-A1FD-428834EF9AE4}|QueueBackend\\QueueBackend.csproj|solutionrelative:queuebackend\\queuebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\Program.cs",
+              "RelativeDocumentMoniker": "QueueBackend\\Program.cs",
+              "ToolTip": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\Program.cs",
+              "RelativeToolTip": "QueueBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:02:18.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "QueueBackend\\Controllers\\QueueController.cs",
+              "ToolTip": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\Controllers\\QueueController.cs",
+              "RelativeToolTip": "QueueBackend\\Controllers\\QueueController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:35:39.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "QueueBackend\\Services\\QueueService.cs",
+              "ToolTip": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\Services\\QueueService.cs",
+              "RelativeToolTip": "QueueBackend\\Services\\QueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:26:09.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueBackend",
+              "DocumentMoniker": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\QueueBackend.csproj",
+              "RelativeDocumentMoniker": "QueueBackend\\QueueBackend.csproj",
+              "ToolTip": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\QueueBackend.csproj",
+              "RelativeToolTip": "QueueBackend\\QueueBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T01:25:13.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "QueueBackend\\appsettings.json",
+              "ToolTip": "D:\\ProjectTest\\Queue_Test\\QueueBackend\\QueueBackend\\appsettings.json",
+              "RelativeToolTip": "QueueBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T01:22:41.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
