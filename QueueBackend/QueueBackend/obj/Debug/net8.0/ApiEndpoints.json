@@ -1,8 +1,18 @@
 [
   {
     "ContainingType": "QueueBackend.Controllers.QueueController",
+    "Method": "loadQueueData",
+    "RelativePath": "api/queue/load",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QueueBackend.Controllers.QueueController",
     "Method": "GetNextQueue",
-    "RelativePath": "api/Queue/next",
+    "RelativePath": "api/queue/next",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -12,7 +22,7 @@
   {
     "ContainingType": "QueueBackend.Controllers.QueueController",
     "Method": "ResetQueue",
-    "RelativePath": "api/Queue/reset",
+    "RelativePath": "api/queue/reset",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

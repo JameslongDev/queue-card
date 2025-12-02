@@ -4,6 +4,9 @@
   </div>
   <div class="body">
     <button (click)="resetQueue()">ล้างคิว</button>
+    <div *ngIf="queue != ''">
+      <h1>คิวปัจจุบัน: {{ queue }}</h1>
+    </div>
     <button (click)="goBack()">กลับหน้ารับบัตรคิว</button>
   </div>
 </div>

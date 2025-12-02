@@ -5,7 +5,19 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Queue/next": {
+    "/api/queue/load": {
+      "post": {
+        "tags": [
+          "Queue"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/queue/next": {
       "get": {
         "tags": [
           "Queue"
@@ -17,7 +29,7 @@
         }
       }
     },
-    "/api/Queue/reset": {
+    "/api/queue/reset": {
       "post": {
         "tags": [
           "Queue"

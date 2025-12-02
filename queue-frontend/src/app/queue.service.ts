@@ -16,6 +16,10 @@ export class QueueService {
 
   constructor(private http: HttpClient) {}
 
+  loadQueue(): Observable<QueueResponse> {
+    return this.http.get<QueueResponse>(`${this.apiUrl}/load`);
+  }
+
   getNextQueue(): Observable<QueueResponse> {
     return this.http.get<QueueResponse>(`${this.apiUrl}/next`);
   }

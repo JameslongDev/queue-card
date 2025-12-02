@@ -37,3 +37,4 @@ D:\ProjectTest\Queue_Test\QueueBackend\QueueBackend\obj\Debug\net8.0\refint\Queu
 D:\ProjectTest\Queue_Test\QueueBackend\QueueBackend\obj\Debug\net8.0\QueueBackend.pdb
 D:\ProjectTest\Queue_Test\QueueBackend\QueueBackend\obj\Debug\net8.0\QueueBackend.genruntimeconfig.cache
 D:\ProjectTest\Queue_Test\QueueBackend\QueueBackend\obj\Debug\net8.0\ref\QueueBackend.dll
+D:\ProjectTest\Queue_Test\QueueBackend\QueueBackend\obj\Debug\net8.0\QueueBackend.sourcelink.json

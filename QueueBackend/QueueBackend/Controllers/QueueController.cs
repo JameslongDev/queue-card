@@ -14,6 +14,13 @@ namespace QueueBackend.Controllers
             _queueService = queueService;
         }
 
+        [HttpGet("load")]
+        public async Task<IActionResult> loadQueueData()
+        {
+            var result = await _queueService.loadData();
+            return Ok(new { queue = result.Queue, time = result.Time });
+        }
+
         [HttpGet("next")]
         public async Task<IActionResult> GetNextQueue()
         {

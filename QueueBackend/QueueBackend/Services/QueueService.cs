@@ -19,6 +19,25 @@ namespace QueueBackend.Services
             _connectionString = connectionString;
         }
 
+        public async Task<QueueDto> loadData() 
+        {
+            using var conn = new NpgsqlConnection(_connectionString);
+            await conn.OpenAsync();
+
+            using var transaction = await conn.BeginTransactionAsync();
+
+            var queueRow = await conn.QueryFirstOrDefaultAsync<(string current_letter, int current_number)>(
+                "SELECT current_letter, current_number FROM queue_counter WHERE id = 1 FOR UPDATE",
+                transaction: transaction
+            );
+
+            return new QueueDto
+            {
+                Queue = $"{queueRow.current_letter}{queueRow.current_number}",
+                Time = DateTime.Now
+            };
+        }
+
         public async Task<QueueDto> GetNextQueueAsync()
         {
             using var conn = new NpgsqlConnection(_connectionString);

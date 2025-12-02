@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueueBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+963430468b32edcea2551221c92b00c0149aa9d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueueBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueueBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
