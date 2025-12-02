@@ -4,7 +4,7 @@ using QueueBackend.Services;
 namespace QueueBackend.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/queue")]
     public class QueueController : ControllerBase
     {
         private readonly QueueService _queueService;
