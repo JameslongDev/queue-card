@@ -12,7 +12,7 @@ interface QueueResponse {
 })
 export class QueueService {
 
-   private apiUrl = '/api/queue'; // ใช้ proxy จาก Angular
+   private apiUrl = '/api/queue';
 
   constructor(private http: HttpClient) {}
 
